@@ -4,7 +4,7 @@ import {
 	projectStorage,
 	projectFirestore,
 	timeStamp,
-} from '../firebse/firebase.config';
+} from '../firebase/firebase.config';
 
 const useStorage = (file) => {
 	const [progress, setProgress] = useState(0);
