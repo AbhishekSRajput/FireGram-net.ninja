@@ -1,3 +1,6 @@
+# This project is made under instruction of Shaun aka coding ninja
+## Check this project here :- [fireGram](https://apcgamer.github.io/FireGram-net.ninja/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
