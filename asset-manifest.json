@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FireGram-net.ninja/static/css/main.2345e5b2.chunk.css",
+    "main.js": "/FireGram-net.ninja/static/js/main.8893c211.chunk.js",
+    "main.js.map": "/FireGram-net.ninja/static/js/main.8893c211.chunk.js.map",
+    "runtime-main.js": "/FireGram-net.ninja/static/js/runtime-main.b5455ac3.js",
+    "runtime-main.js.map": "/FireGram-net.ninja/static/js/runtime-main.b5455ac3.js.map",
+    "static/js/2.5b98655a.chunk.js": "/FireGram-net.ninja/static/js/2.5b98655a.chunk.js",
+    "static/js/2.5b98655a.chunk.js.map": "/FireGram-net.ninja/static/js/2.5b98655a.chunk.js.map",
+    "index.html": "/FireGram-net.ninja/index.html",
+    "static/css/main.2345e5b2.chunk.css.map": "/FireGram-net.ninja/static/css/main.2345e5b2.chunk.css.map",
+    "static/js/2.5b98655a.chunk.js.LICENSE.txt": "/FireGram-net.ninja/static/js/2.5b98655a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5455ac3.js",
+    "static/js/2.5b98655a.chunk.js",
+    "static/css/main.2345e5b2.chunk.css",
+    "static/js/main.8893c211.chunk.js"
+  ]
+}
