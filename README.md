@@ -1,5 +1,5 @@
 # This project is made under instruction of Shaun aka coding ninja
-## Check this project here :- [fireGram](https://apcgamer.github.io/FireGram-net.ninja/)
+## Check this project here :- [fireGram](https://abhisheksrajput.github.io/FireGram-net.ninja/)
 
 # Getting Started with Create React App
 
